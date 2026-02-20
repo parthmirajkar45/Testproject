@@ -1,2 +1,3 @@
 <?php
-echo"Parth Mirajkar";
+
+echo"Parth";
